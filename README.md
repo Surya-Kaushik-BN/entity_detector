@@ -21,6 +21,13 @@ The `entity_detector` repository provides a Streamlit-based web application for 
     ```
 
 ## Usage
+1. Open your web browser and navigate to 'https://entitydetector-fdyapffkbgp6m8raipgkpt.streamlit.app/'
+
+2. Upload the JSON file containing the dataset.
+
+3. Select the entity type and detection method, then click the "Detect Entity" button to start the analysis.
+
+## Running the application locally
 1. Run the Streamlit application:
     ```sh
     streamlit run UI/streamlit_app.py
